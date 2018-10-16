@@ -13,4 +13,4 @@ modifiedSentence = clientSocket.recv(1024)
 print 'From server: ', modifiedSentence
 clientSocket.close()
 
-#hola aqui editando cosas
+#hasdffdsa
